@@ -22,5 +22,3 @@ DISCLAIMER & CONTEXTE
 La MEC du réseau de transport d'IDFM va entrainer la multiplication des contrats de ce type entre les OT (opérateur de transport) et IDFM. A ce titre, il est essentiel que l'outil d'extraction des indicateurs de QS (qualité de service) soit agnostique de tout format.
 L'extraction des indicateurs de QS se fait manuellement à l'heure actuelle. Avec la multiplication des contrats à prévoir avec la MEC, il apparait essentiel d'être en capacité d'automatiser ce processus. 
 
-![image](https://github.com/user-attachments/assets/09f3ce81-ef82-40fd-ac6b-967b5bce0189)
-
